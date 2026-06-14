@@ -11,9 +11,12 @@
 - Main subject does not exceed about 60% of the canvas.
 - One image explains one idea.
 - English labels are sparse, short, and readable.
-- Orange is used only for main path or movement.
+- Deep teal/slate is used only for product, system, or source-of-truth emphasis.
+- Clay/orange is used only for main path or movement.
 - Red is used only for warnings, problems, or key results.
-- Blue is used only for secondary notes, feedback, or system state.
+- Blue/cyan is used only for secondary notes, feedback, or system state.
+- Green is used only for verified/pass states when needed.
+- Carbonclear illustrations use accurate language: Zero Ledger for the product, Midnight only for the theme.
 
 ## Failure Signals
 
@@ -26,6 +29,8 @@ Regenerate or edit if:
 - Text becomes paragraph-like.
 - The background has texture, shadow, gradient, beige tone, or noise.
 - It uses a real UI screenshot or futuristic dashboard style.
+- It looks like a dashboard mockup instead of a hand-drawn physical metaphor.
+- It uses Midnight as a product label.
 - Labels are badly misspelled or unreadable.
 - The image is stiff and lacks an absurd metaphor.
 

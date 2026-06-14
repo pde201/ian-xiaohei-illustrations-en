@@ -16,6 +16,7 @@ This is not for polished commercial illustration, formal architecture diagrams, 
 Load only the reference files needed for the task:
 
 - `references/style-dna.md`: visual rules, color use, text density, and hard no-goes.
+- `references/carbonclear-design.md`: Carbonclear / Zero Ledger visual-system cues to use for this workspace or when the user asks for Carbon Clear alignment.
 - `references/xiaohei-ip.md`: Xiaohei character rules, actions, and failure modes.
 - `references/composition-patterns.md`: composition types and original metaphor generation.
 - `references/prompt-template.md`: single-image generation and edit prompt templates.
@@ -57,7 +58,7 @@ Each image must explain one idea only. The prompt must include:
 - 16:9 horizontal article illustration
 - pure white background
 - black hand-drawn line art
-- sparse red/orange/blue English handwritten annotations
+- sparse Carbonclear-aligned accent annotations: deep teal for product/system emphasis, muted orange for flow, red for blockers, blue only for secondary notes
 - lots of empty space
 - Xiaohei as the core action subject
 - no PPT, commercial illustration, cute mascot poster, dense architecture diagram, realistic UI, or top-left title
