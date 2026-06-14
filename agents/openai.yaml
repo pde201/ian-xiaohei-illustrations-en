@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ian Xiaohei Illustrations EN"
+  short_description: "English Xiaohei article and workspace illustrations"
+  default_prompt: "Use $ian-xiaohei-illustrations-en to create sparse hand-drawn English Xiaohei illustrations for this article or workspace."
+policy:
+  allow_implicit_invocation: true
