@@ -1,0 +1,9 @@
+Generate one standalone 16:9 horizontal article illustration.
+
+White background, black pen line style, sparse operational labels. Deep teal for core modules, orange for movement, red for quality failures, blue for status notes.
+
+Xiaohei is sorting inventory cards on a shelf system: M5 intake shelf, M6 validation bench, M7 output shelf. A path from M7 feeds a small Operations Room panel. Show Xiaohei measuring completeness with a ruler at M6.
+
+English labels: M5 Inventory Capture, M6 Completeness Check, M7 Inventory Output, Operations Room, Coverage Gap, Pass.
+
+Constraints: one idea only, no dashboard mockup, no top-left title.

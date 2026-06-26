@@ -13,7 +13,7 @@ Use the product language accurately: Client, Counterparty, Exposure, Disclosure 
 
 ## Visual Translation
 
-Keep the Xiaohei style: white background, black pen line, sparse labels, and absurd physical metaphors. Borrow Carbonclear's design system only as restraint and accent, not as app UI.
+In sparse mode, keep the Xiaohei style: white background, black pen line, sparse labels, and absurd physical metaphors. In dense architecture mode, keep white background and restrained accents but prioritize technical architecture readability over character metaphor. Borrow Carbonclear's design system as restraint and accent, not as app UI.
 
 - Palette: prefer deep teal/slate for system emphasis, muted orange/clay for main movement, red for blockers, and restrained blue/cyan only for secondary notes.
 - Suggested accents: `#205465` deep teal, `#246b7b` cyan-teal, `#142428` slate ink, `#4d656c` muted slate, `#d97757` clay/orange, `#a82323` red, `#267348` green.

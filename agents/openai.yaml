@@ -1,6 +1,6 @@
 interface:
   display_name: "Ian Xiaohei Illustrations EN"
-  short_description: "English Xiaohei article and workspace illustrations"
-  default_prompt: "Use $ian-xiaohei-illustrations-en to create sparse hand-drawn English Xiaohei illustrations for this article or workspace."
+  short_description: "English illustration system: Xiaohei, architecture, presets, adapters"
+  default_prompt: "Use $ian-xiaohei-illustrations-en to create English-only illustrations with rendering mode, audience preset, diagram family, style pack, accessibility checks, and output adapters. Default to sparse Xiaohei editorial mode; switch to dense architecture only when explicitly requested."
 policy:
   allow_implicit_invocation: true

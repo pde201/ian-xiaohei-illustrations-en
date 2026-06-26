@@ -1,0 +1,9 @@
+Generate one standalone 16:9 horizontal article illustration.
+
+Pure white background, black hand-drawn line art, sparse English labels, high whitespace. Deep teal for source-of-truth modules, muted orange for the main pipeline path, red for failed quality checks, blue for secondary notes.
+
+Xiaohei performs the action: Xiaohei pushes a heavy M2 crate onto a conveyor labeled M3 (attribution + factor join) and stamps the final box M4 (financed emissions output). Add one small side loop where Xiaohei rejects bad data at a red checkpoint.
+
+English labels: M2 Raw Inputs, M3 Attribution + Factors, M4 Financed Emissions, Quality Gate, Rejected Record, Ready for Disclosure.
+
+Constraints: one idea only, no top-left title, no formal flowchart look.
