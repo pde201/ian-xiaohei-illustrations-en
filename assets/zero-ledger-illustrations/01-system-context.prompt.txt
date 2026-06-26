@@ -1,0 +1,9 @@
+Generate one standalone 16:9 horizontal article illustration.
+
+Pure white background, minimalist black hand-drawn line art, lots of empty space, sparse handwritten English labels. Carbonclear accents: deep teal for core system blocks, muted orange for primary data flow arrows, red for blockers, blue only for secondary notes.
+
+Xiaohei is the operator: Xiaohei stands at a verification gate in the center, routing records from left-side source pipes (Core Banking, ERP/GL, Utility Feeds, PCAF Factors) into a right-side Zero Ledger machine (API Gate, Orchestrator, Compute Engine, Ledger Vault, Evidence Store), then to output trays (Disclosure Pack, Audit Trail).
+
+English labels: Source Systems, API Gate, Orchestrator, Compute Engine, Ledger Vault, Evidence Store, Disclosure Output, Audit Trail, Blocked Input.
+
+Constraints: one core idea only, no top-left title, no realistic UI, no dense slide look.

@@ -14,6 +14,12 @@ Use for data sources, filters, databases, renderers, agent systems, or product b
 
 Draw only 3-5 core parts. Xiaohei should operate, guard, connect, or repair one crucial part.
 
+## Dense Architecture Diagram
+
+Use when the user explicitly requests a formal or dense architecture diagram.
+
+Draw grouped components with clear boundaries (service zone, data zone, trust zone, deployment zone). Show directional flow between components, stores, queues, and interfaces. Keep labels technical and compact. Prefer readability and structural truth over metaphor novelty. Xiaohei is optional.
+
 ## Before / After
 
 Use for chaos/order, manual/automated, scattered/consolidated, anxious/stable, blocked/working.

@@ -1,0 +1,9 @@
+Generate one standalone 16:9 horizontal article illustration.
+
+Pure white background, minimalist hand-drawn black lines, sparse English annotations. Carbonclear accent rules: deep teal for core services, orange for primary run path, red for rejection path, blue for control notes.
+
+Xiaohei pulls a Disclosure Run cart through five stations arranged left-to-right: Orchestrator, Evidence Store, Lineage Recorder, Approval Gate, Report Publisher. Include a red branch from Approval Gate to Fix and Rerun where Xiaohei turns back with a wrench.
+
+English labels: Start Run, Evidence Bundle, Lineage Links, Approval Gate, Publish, Fix and Rerun.
+
+Constraints: one core lifecycle only, no top-left title, no dense architecture slide aesthetic.

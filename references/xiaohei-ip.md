@@ -4,7 +4,7 @@
 
 Xiaohei is the recurring visual character. Xiaohei is not a mascot sticker or decoration. Xiaohei is a serious operator inside the concept.
 
-Every generated image should include Xiaohei unless the user explicitly asks otherwise.
+Every generated image should include Xiaohei unless the user explicitly asks otherwise, or unless dense architecture mode is selected and Xiaohei would reduce clarity.
 
 ## Appearance
 
